@@ -6,3 +6,6 @@
 # Build directory.
 build/
 out/
+
+# Generated file
+snappy-stubs-public.h
